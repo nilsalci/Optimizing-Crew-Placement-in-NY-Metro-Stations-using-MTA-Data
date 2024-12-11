@@ -63,6 +63,11 @@ This project leverages NYC subway data (2020-2024) to optimize the deployment of
 - Monthly, daily, and hourly trends for subway use.
 - Cross-referenced charts combining health and ridership data.
 
+## Contributors
+
+- [@Sevag9](https://github.com/Sevag9)
+- [@nilsalci](https://github.com/nilsalci)
+
 ## References
 
 - [MTA Subway Hourly Ridership Data](https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-Beginning-July-2020/wujg-7c2s/about_data)

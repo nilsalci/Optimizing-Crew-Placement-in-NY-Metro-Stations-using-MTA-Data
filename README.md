@@ -76,5 +76,5 @@ This project leverages NYC subway data (2020-2024) to optimize the deployment of
 
 ---
 
-This project was developed by Sevag Altıntopuz and Nilsu Salıcı as part of an analytical initiative for the Cancer Awareness Foundation. Feedback and contributions are welcome!
+This project was developed by Sevag Altıntopuz and Nilsu Salıcı as part of an analytical initiative for the Cancer Awareness Foundation. Feedback and contributions are welcome! 
 
